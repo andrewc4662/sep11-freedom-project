@@ -2,10 +2,10 @@
 by Andrew Chacon
 
 ## Context
-The "Freedom Project" for SEP11 is all about using code and sftware to makean impat on the world such as an attempt on fixing a big world problem. The purpose of this blog is to X.
+The "Freedom Project" for SEP11 is all about using code and sftware to makean impat on the world such as an attempt on fixing a big world problem. The purpose of this blog is to spread awarness but in a fun and interesting way.
 
 ## Content
-For my project, I am making X. This blog will walk through my process of independently studying X in order to make X.
+For my project, I am making a videogame and a website on Global warming but maibnly air pollution. This blog will walk through my process of independently studying pollution in order to make a huge impact on the way we think about pollution and to help spread awarness of the huge growing problem.
 
 ## Links
 
@@ -14,7 +14,7 @@ Product
 Presentation
 
 ## Implications
-X
+
 
 ---
 
