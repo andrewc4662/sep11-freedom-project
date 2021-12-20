@@ -5,7 +5,10 @@ Since the last blog ive made, a lot has happened and a lot has changed. The bigg
 <br>
 <br>
 # EDP
-I would say that I am on step 3 of the edp as  need to brainstorm various important pieces of my project and i still need to brainstorm what exactly the game willl play out. I still dont feel like I am on level 4 as I feel like I need to do a little bit more research but I feel ready to start coding a project with everything I have studied. 
+I would say that I am on step 3 of the edp as I need to brainstorm various important pieces of my project and I still need to brainstorm how exactly the game willl play out. I still dont feel like I am on level 4 as I feel like I need to do a little bit more research but I feel ready to start coding a project with everything I have studied. I will need more knowledg on my tool and end goal before I can start brainstorming about different actions to take. 
+
+# Skills 
+The 2 kills that I feel I have strenghthened since the last blog would be very vtal towards the project and final goal as a whole. One skill that I feel strenghtheed is my descion making as I had to make a pivital descion on whether I stay with the complicated situation of melon js that had confusing documentation and little to no videos on it, or if I should switch to haser which had a mre user friendly learning path with various youtube videos to help beginers. This could help me in he future when i would have to make life changing descions in bouth edcational fields and in personal fields. Another skill I have strehtned snce the last blog is my learning skills/ my ablity to adapt as i had to quickly adapt to the new field and feel of phaser as it would nw be the bulding block of my project and it was very different than melon but i was still able to adapt and use phaser to learn and get a feel of it. This would gratly help me in the future as everyone will have to adapt to a new life, place, job and maybe even new family/friends as life goes on.
 
 [Previous](entry01.md) | [Next](entry03.md)
 
