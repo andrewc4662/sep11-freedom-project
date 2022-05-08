@@ -3,7 +3,7 @@
 
 # Where I am at
 I am currently adding on to my Mvp until the expo day where i will present what i have to the other students. I have currently changed the physics to make the game a little bit harder by making gravity bigger so that you barely reach each platform, I have changed the "enemy" into a garbage bag to represent the theme of pollution, i have changed the points to emission with an image of smoke, i have made the uder/character an earth themed character, i changed the score you get for each air colected, i changed the "world" and i changed the Platforms. I also ran into a problem with the proportions where the user would lose even if the garbage bag didnt touch them. All the images i said above i created in pixil art so that they still had the same acrade/8-bit sortve vibe of the world and "story". I also changed the start and end screen i made prior and i plan on adding them in the near future as i tried for a bit but it didnt want to work but i will attempt again after i make the world "move" as said in the previous blog as that is my main focus. Before i present i want to have the tower functionality there to make it unique and i am currently still tinkering to get it to work as it didnt work with what i had in my mind whish was by changing the location of the same platform.
-You can view what i am currently working on here[click here](../index.html)
+You can view what i am currently working on here [click here](https://andrewc4662.github.io/sep11-freedom-project/index.html)
 <br>
 
 
