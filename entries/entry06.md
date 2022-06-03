@@ -2,7 +2,7 @@
 ##### 5/31/2022
 
 ## Elevator Pitch & Expo
-When it was my time to present my Project I felt as if I did a really good job and showed my mindset and my project to the fullest. I was able to intriue the judges with my elevator pitch which was aimed at the story behind my project and with this I knew I could elevate my project and its meaning. I was also able to graby the attention of other various teahers, students and newer Sep members which made me feel great as i was able to share my love and knowledge of code to various others.
+When it was my time to present my Project I felt as if I did a really good job and showed my mindset and my project to the fullest. I was able to intriue the judges with my elevator pitch which was aimed at the story behind my project and with this I knew I could elevate my project and its meaning. I was also able to graby the attention of other various teahers, students and newer Sep members which made me feel great as i was able to share my love and knowledge of code to various others and which could be why I was ranked very high.
 
 
 ## In class presentation
